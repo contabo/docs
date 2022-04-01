@@ -33,6 +33,7 @@ For tools not covered in the list, please consider the following information:
 
 * Veeam (To be checked). Does it work for you? Please let us know or particpate.
 * Synology (To be checked). Does it work for you? Please let us know or particpate.
+* WinSCP (To be checked). [winscp](https://winscp.net) Does it work for you? Please let us know or particpate.
 
 ## Tools known NOT to work
 
