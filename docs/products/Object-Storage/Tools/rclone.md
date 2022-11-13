@@ -37,7 +37,7 @@ For `access_key`, `secret_key` and the S3 URL please check [here](/docs/products
 9. press `return` to skip `region`
 10. specifiy the S3 URL, e.g. `https://eu2.contabostorage.com` for `endpoint`
 11. press `return` to skip `location_constraint`
-12. press `return` to skil `acl`
+12. press `return` to skip `acl`
 13. press `return` to skip `server_side_encryption`
 14. press `return` to skip `sse_kms_key_id`
 15. specify `n` for `Edit advanced config`
